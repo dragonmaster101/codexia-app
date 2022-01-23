@@ -6,6 +6,7 @@ import {
   Box,
   Button,
   Icon,
+  Text,
   extendTheme,
   VStack,
 } from "native-base";
