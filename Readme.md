@@ -1,9 +1,9 @@
-# expo-template-native-base
+# React Native Mobile App for Codexia
 
-The official NativeBase template for [Expo](https://docs.expo.io/)
+## Version 0.0.1
 
 ## Usage
 
 ```sh
-expo init my-app --template expo-template-native-base
+expo start
 ```
